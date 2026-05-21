@@ -16,9 +16,14 @@ This repository intentionally contains only generated PNG/SVG visualization arti
 - `figures/root/nchcf_zhang_2014_full_neigs30_defaultpml_paper_fig5_thickness_loss_connected_theory.png`
 - `figures/root/nchcf_zhang_2014_full_neigs30_defaultpml_geometry_qa.png`
 - `figures/root/nchcf_zhang_2014_full_neigs30_defaultpml_field_validation_contact_sheet.png`
+- `figures/root/nchcf_zhang_2014_full_neigs30_defaultpml_fundamental_mode_examples.png`
 - `figures/root/nchcf_zhang_2014_full_neigs30_defaultpml_arrow_fem_overlay.png`
 
 ## Notes
+
+The field-validation contact sheet is a visual QA panel, not a loss spectrum. Each panel is a selected member of the tracked HE11/LP01-like fundamental branch. The green badge marks the fundamental-core branch, while `mode #` is only COMSOL's local eigenmode ordering at that wavelength and is not the ARROW order.
+
+The fundamental-mode examples figure shows the lowest-loss representative of that tracked branch for each wall thickness.
 
 The ARROW markers in the theory figures are roots of:
 
