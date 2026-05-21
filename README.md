@@ -21,7 +21,7 @@ This repository intentionally contains only generated PNG/SVG visualization arti
 
 ## Notes
 
-The field-validation contact sheet is a visual QA panel, not a loss spectrum. Each panel is a selected member of the tracked HE11/LP01-like fundamental branch. The green badge marks the fundamental-core branch, while `mode #` is only COMSOL's local eigenmode ordering at that wavelength and is not the ARROW order.
+The field-validation contact sheet is a visual QA panel, not a loss spectrum. Each panel is a selected member of the tracked HE11/LP01-like fundamental branch. The `FUND branch` title marks the fundamental-core branch, while `mode #` is only COMSOL's local eigenmode ordering at that wavelength and is not the ARROW order. The field region intentionally has no extra label overlay, so annotations do not obscure the mode shape.
 
 The fundamental-mode examples figure shows the lowest-loss representative of that tracked branch for each wall thickness.
 
